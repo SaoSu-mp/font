@@ -5,8 +5,7 @@ Shan Unicode Font for embed web
 @font-face {
   font-family: "GreatHorKham Yangon";
   src: url("https://github.com/Sudhamma/font/blob/master/GreatHorKhamYangon.eot"); /* IE9 Compat Modes */
-  src: url("./fonts/GreatHorKhamYangon.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("https://github.com/Sudhamma/font/blob/master/GreatHorKhamYangon.otf") format("opentype"), /* Open Type Font */
+      url("https://github.com/Sudhamma/font/blob/master/GreatHorKhamYangon.otf") format("opentype"), /* Open Type Font */
     url("https://github.com/Sudhamma/font/blob/master/GreatHorKhamYangon.svg") format("svg"), /* Legacy iOS */
     url("https://github.com/Sudhamma/font/blob/master/GreatHorKham%20Yangon.ttf") format("truetype"), /* Safari, Android, iOS */
     url("https://github.com/Sudhamma/font/blob/master/GreatHorKhamYangon.woff") format("woff"), /* Modern Browsers */
