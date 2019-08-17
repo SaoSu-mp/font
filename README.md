@@ -1,5 +1,6 @@
 # GreatHorKhamYangon
 Shan Unicode Font for embed web
+တႃႇၸႂ်ႉတိုဝ်းၼၼ်ႉ ဢဝ်လိင်ႉတႂ်ႈၼႆႉ ၵႂႃႇဝၢင်းၼႂ်းဝႅပ်ႉသူၸဝ်ႈတႃႉ
 ******************************************
 @font-face {
   font-family: "GreatHorKhamYangon";
