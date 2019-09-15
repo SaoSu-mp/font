@@ -1,9 +1,6 @@
-@font-face {
-  font-family: 'NamKhoneUnicode';
-  src: url('NamKhoneUnicode.ttf') format('truetype'),
-       url('NamKhoneUnicode.woff') format('woff'),
-       url('NamKhoneUnicode.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
-
+     @font-face {
+        font-family:"NamKhoneUnicode";
+        src: url("https://saosump.github.io/font/NamKhoneUnicode/NamKhoneUnicode.woff") format("woff"),
+          url("https://saosump.github.io/font/NamKhoneUnicode/NamKhoneUnicode.woff2") format("woff2"),
+          url("https://saosump.github.io/font/NamKhoneUnicode/NamKhoneUnicode.ttf") format("ttf");
+      }
