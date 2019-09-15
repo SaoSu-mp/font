@@ -4,54 +4,46 @@
           url("https://saosu-mp.github.io/font/NamKhoneUnicode/NamKhoneUnicode.woff2") format("woff2"),
           url("https://saosu-mp.github.io/font/NamKhoneUnicode/NamKhoneUnicode.ttf") format("ttf");
       }
-
      @font-face {
         font-family:"NK SSmart3";
         src: url("https://saosu-mp.github.io/font/NKSSmart3/NKSSmart3.woff") format("woff"),
           url("https://saosu-mp.github.io/font/NKSSmart3/NKSSmart3.woff2") format("woff2"),
           url("https://saosu-mp.github.io/font/NKSSmart3/NKSSmart3.ttf") format("ttf");
       }
-
      @font-face {
         font-family:"NK SSmart2";
         src: url("https://saosu-mp.github.io/font/NKSSmart2/NKSSmart2.woff") format("woff"),
           url("https://saosu-mp.github.io/font/NKSSmart2/NKSSmart2.woff2") format("woff2"),
           url("https://saosu-mp.github.io/font/NKSSmart2/NKSSmart2.ttf") format("ttf");
       }
-
      @font-face {
         font-family:"GHK Muse";
         src: url("https://saos-ump.github.io/font/GHKMuse.woff") format("woff"),
           url("https://saosu-mp.github.io/font/GHKMuSe.woff2") format("woff2"),
           url("https://saosu-mp.github.io/font/GHKMuse.ttf") format("ttf");
       }
-
      @font-face {
         font-family:"GHK Tachileik";
         src: url("https://ar-themes.github.io/fonts/GHK/GHKTachileik.woff") format("woff"),
           url("https://ar-themes.github.io/fonts/GHK/GHKTachileik.woff2") format("woff2"),
           url("https://ar-themes.github.io/fonts/GHK/GHKTachileik.ttf") format("ttf");
       }
-
       @font-face {
         font-family:"GreatHorKham Yangon";
         src: url("https://ar-themes.github.io/fonts/GHK/GreatHorKham Yangon.woff") format("woff"),
           url("https://ar-themes.github.io/fonts/GHK/GreatHorKham Yangon.woff2") format("woff2"),
           url("https://ar-themes.github.io/fonts/GHK/GreatHorKham Yangon.ttf") format("ttf");
       }
-
      @font-face {
        font-family:'GHK TaungGyi';
        src:local('GHK TaungGyi'), url('https://mmwebfonts.comquas.com/fonts/GHKTaunggyi.woff') format('woff'), 
             url('https://mmwebfonts.comquas.com/fonts/GHKTaunggyi.ttf') format('ttf');
      }
-
      @font-face {
        font-family:'GHK KengTung';
        src:local('GHK KengTung'), url('https://mmwebfonts.comquas.com/fonts/GHKKengtung.woff') format('woff'), 
             url('https://mmwebfonts.comquas.com/fonts/GHKKengtung.ttf') format('ttf');
      }
-
 /*
  * Myanmar Sans Pro (Myanmar) http://www.google.com/fonts/earlyaccess
  */
