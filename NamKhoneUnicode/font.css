@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NamKhoneUnicode';
+  src: url('NamKhoneUnicode.ttf') format('truetype'),
+       url('NamKhoneUnicode.woff') format('woff'),
+       url('NamKhoneUnicode.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

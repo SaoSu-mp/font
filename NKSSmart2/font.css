@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'NKSSmart2';
+  src: url('NKSSmart2.ttf') format('truetype'),
+       url('NKSSmart2.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NK_SSmart2';
+  src: url('NK_SSmart2.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
