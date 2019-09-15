@@ -5,16 +5,22 @@
           url("https://saosu-mp.github.io/font/NamKhoneUnicode/NamKhoneUnicode.ttf") format("ttf");
       }
      @font-face {
+        font-family:"NK SSmart2";
+        src: url("https://saosu-mp.github.io/font/NKSSmart2/NKSSmart2.woff") format("woff"),
+          url("https://saosu-mp.github.io/font/NKSSmart2/NKSSmart2.woff2") format("woff2"),
+          url("https://saosu-mp.github.io/font/NKSSmart2/NKSSmart2.ttf") format("ttf");
+      }
+     @font-face {
         font-family:"NK SSmart3";
         src: url("https://saosu-mp.github.io/font/NKSSmart3/NKSSmart3.woff") format("woff"),
           url("https://saosu-mp.github.io/font/NKSSmart3/NKSSmart3.woff2") format("woff2"),
           url("https://saosu-mp.github.io/font/NKSSmart3/NKSSmart3.ttf") format("ttf");
       }
      @font-face {
-        font-family:"NK SSmart2";
-        src: url("https://saosu-mp.github.io/font/NKSSmart2/NKSSmart2.woff") format("woff"),
-          url("https://saosu-mp.github.io/font/NKSSmart2/NKSSmart2.woff2") format("woff2"),
-          url("https://saosu-mp.github.io/font/NKSSmart2/NKSSmart2.ttf") format("ttf");
+        font-family:"NK SSmart4";
+        src: url("https://saosu-mp.github.io/font/NKSSmart4/NKSSmart4.woff") format("woff"),
+          url("https://saosu-mp.github.io/font/NKSSmart4/NKSSmart4.woff2") format("woff2"),
+          url("https://saosu-mp.github.io/font/NKSSmart4/NKSSmart4.ttf") format("ttf");
       }
      @font-face {
         font-family:"GHK Muse";
@@ -44,6 +50,24 @@
        src:local('GHK KengTung'), url('https://mmwebfonts.comquas.com/fonts/GHKKengtung.woff') format('woff'), 
             url('https://mmwebfonts.comquas.com/fonts/GHKKengtung.ttf') format('ttf');
      }
+     @font-face {
+        font-family:"LuenTai.info";
+        src: url("https://saosu-mp.github.io/font/LuenTai.info/LuenTai.info.woff") format("woff"),
+          url("https://saosu-mp.github.io/font/LuenTai.info/LuenTai.info.woff2") format("woff2"),
+          url("https://saosu-mp.github.io/font/LuenTai.info/LuenTai.info.ttf") format("ttf");
+      }
+   @font-face {
+        font-family:"NamTeng Web Pro";
+        src: url("https://saosu-mp.github.io/font/NamTengWebPro/NamTengWebPro.woff") format("woff"),
+          url("https://saosu-mp.github.io/font/NamTengWebPro/NamTengWebPro.woff2") format("woff2"),
+          url("https://saosu-mp.github.io/font/NamTengWebPro/NamTengWebPro.ttf") format("ttf");
+      }
+   @font-face {
+        font-family:"NanKhone Web Pro";
+        src: url("https://saosu-mp.github.io/font/NanKhoneWebPro/NamKhoneWebPro.woff") format("woff"),
+          url("https://saosu-mp.github.io/font/NanKhoneWebPro/NamKhoneWebPro.woff2") format("woff2"),
+          url("https://saosu-mp.github.io/font/NanKhoneWebPro/NamKhoneWebPro.ttf") format("ttf");
+      }
 /*
  * Myanmar Sans Pro (Myanmar) http://www.google.com/fonts/earlyaccess
  */
