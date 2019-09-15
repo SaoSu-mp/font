@@ -24,9 +24,9 @@
       }
      @font-face {
         font-family:"GHK Muse";
-        src: url("https://saos-ump.github.io/font/GHKMuse.woff") format("woff"),
-          url("https://saosu-mp.github.io/font/GHKMuSe.woff2") format("woff2"),
-          url("https://saosu-mp.github.io/font/GHKMuse.ttf") format("ttf");
+        src: url("https://github.com/SaoSu-mp/font/GHKMuSe/GHKMuse.woff") format("woff"),
+          url("https://saosu-mp.github.io/font/GHKMuSe/GHKMuSe.woff2") format("woff2"),
+          url("https://saosu-mp.github.io/font/GHKMuSe/GHKMuse.ttf") format("ttf");
       }
      @font-face {
         font-family:"GHK Tachileik";
