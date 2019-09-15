@@ -1,0 +1,45 @@
+     @font-face {
+        font-family:"NamKhoneUnicode";
+        src: url("https://saosu-mp.github.io/font/NamKhoneUnicode/NamKhoneUnicode.woff") format("woff"),
+          url("https://saosu-mp.github.io/font/NamKhoneUnicode/NamKhoneUnicode.woff2") format("woff2"),
+          url("https://saosu-mp.github.io/font/NamKhoneUnicode/NamKhoneUnicode.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"NK SSmart3";
+        src: url("https://saosu-mp.github.io/font/NKSSmart3/NKSSmart3.woff") format("woff"),
+          url("https://saosu-mp.github.io/font/NKSSmart3/NKSSmart3.woff2") format("woff2"),
+          url("https://saosu-mp.github.io/font/NKSSmart3/NKSSmart3.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"NK SSmart2";
+        src: url("https://saosu-mp.github.io/font/NKSSmart2/NKSSmart2.woff") format("woff"),
+          url("https://saosu-mp.github.io/font/NKSSmart2/NKSSmart2.woff2") format("woff2"),
+          url("https://saosu-mp.github.io/font/NKSSmart2/NKSSmart2.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"GHK Muse";
+        src: url("https://saos-ump.github.io/font/GHKMuse.woff") format("woff"),
+          url("https://saosu-mp.github.io/font/GHKMuSe.woff2") format("woff2"),
+          url("https://saosu-mp.github.io/font/GHKMuse.ttf") format("ttf");
+      }
+@font-face {
+font-family:'GHK TaungGyi';
+src:local('GHK TaungGyi'), url('https://mmwebfonts.comquas.com/fonts/GHKTaunggyi.woff') format('woff'), url('https://mmwebfonts.comquas.com/fonts/GHKTaunggyi.ttf') format('ttf');
+}
+@font-face {
+font-family:'GHK KengTung';
+src:local('GHK KengTung'), url('https://mmwebfonts.comquas.com/fonts/GHKKengtung.woff') format('woff'), url('https://mmwebfonts.comquas.com/fonts/GHKKengtung.ttf') format('ttf');
+}
+/*
+ * Myanmar Sans Pro (Myanmar) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+  font-family: 'Myanmar Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url(//fonts.gstatic.com/ea/myanmarsanspro/v4/MyanmarSansPro-Regular.eot);
+  src: url(//fonts.gstatic.com/ea/myanmarsanspro/v4/MyanmarSansPro-Regular.eot?#iefix) format('embedded-opentype'),
+       url(//fonts.gstatic.com/ea/myanmarsanspro/v4/MyanmarSansPro-Regular.woff2) format('woff2'),
+       url(//fonts.gstatic.com/ea/myanmarsanspro/v4/MyanmarSansPro-Regular.woff) format('woff'),
+       url(//fonts.gstatic.com/ea/myanmarsanspro/v4/MyanmarSansPro-Regular.ttf) format('truetype');
+}
