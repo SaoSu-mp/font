@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'LuenTai1';
+  src: url('LuenTai1.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LuenTai2017';
+  src: url('LuenTai2017.ttf') format('truetype'),
+       url('LuenTai2017.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
