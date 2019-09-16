@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'PangLong';
+  src: url('PangLong.ttf') format('truetype'),
+       url('PangLong.woff') format('woff'),
+       url('PangLong.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
