@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'NamKhoneWebPro';
+  src: url('NamKhoneWebPro.ttf') format('truetype'),
+       url('NamKhoneWebPro.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NanKhoneWebPro';
+  src: url('NanKhoneWebPro.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
