@@ -51,17 +51,18 @@
              url("https://ar-themes.github.io/fonts/GHK/GHKTachileik.woff2") format("woff2"),
              url("https://ar-themes.github.io/fonts/GHK/GHKTachileik.ttf") format("ttf");
       }
+     @font-face {
+        font-family:"GHK TaungGyi";
+        src: url("https://saosu-mp.github.io/font/GHKTaungGyi/GHKTaungGyi.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/GHKTaungGyi/GHKTaungGyi.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/GHKTaungGyi/GHKTaungGyi.ttf") format("ttf");
+      }
       @font-face {
         font-family:"GreatHorKham Yangon";
         src: url("https://ar-themes.github.io/fonts/GHK/GreatHorKham Yangon.woff") format("woff"),
              url("https://ar-themes.github.io/fonts/GHK/GreatHorKham Yangon.woff2") format("woff2"),
              url("https://ar-themes.github.io/fonts/GHK/GreatHorKham Yangon.ttf") format("ttf");
       }
-     @font-face {
-       font-family:'GHK TaungGyi';
-       src:local('GHK TaungGyi'), url('https://mmwebfonts.comquas.com/fonts/GHKTaunggyi.woff') format('woff'), 
-             url('https://mmwebfonts.comquas.com/fonts/GHKTaunggyi.ttf') format('ttf');
-     }
      @font-face {
         font-family:"LuenTai1";
         src: url("https://saosu-mp.github.io/font/LuenTai1/LuenTai1.woff") format("woff"),
