@@ -63,10 +63,16 @@
              url('https://mmwebfonts.comquas.com/fonts/GHKTaunggyi.ttf') format('ttf');
      }
      @font-face {
-        font-family:"LuenTai.info";
-        src: url("https://saosu-mp.github.io/font/LuenTai.info/LuenTai.info.woff") format("woff"),
-             url("https://saosu-mp.github.io/font/LuenTai.info/LuenTai.info.woff2") format("woff2"),
-             url("https://saosu-mp.github.io/font/LuenTai.info/LuenTai.info.ttf") format("ttf");
+        font-family:"LuenTai1";
+        src: url("https://saosu-mp.github.io/font/LuenTai1/LuenTai1.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/LuenTai1/LuenTai1.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/LuenTai1/LuenTai1.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"LuenTai2";
+        src: url("https://saosu-mp.github.io/font/LuenTai2/LuenTai2.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/LuenTai2/LuenTai2.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/LuenTai2/LuenTai2.ttf") format("ttf");
       }
      @font-face {
         font-family:"PangLong";
