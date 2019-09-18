@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'KengTawng.002';
+  src: url('KengTawng.002.ttf') format('truetype'),
+       url('KengTawng.002.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'KengTawng2';
+  src: url('KengTawng2.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
