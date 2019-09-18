@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'MyanmarYinmar';
+  src: url('MyanmarYinmar.ttf') format('truetype'),
+       url('MyanmarYinmar.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'myanmaryinmar';
+  src: url('myanmaryinmar.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

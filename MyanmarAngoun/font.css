@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyanmarAngoun';
+  src: url('MyanmarAngoun.ttf') format('truetype'),
+       url('MyanmarAngoun.woff') format('woff'),
+       url('MyanmarAngoun.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

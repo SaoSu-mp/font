@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Masterpiece-Uni-Round';
+  src: url('Masterpiece-Uni-Round.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MasterpieceUniRound';
+  src: url('MasterpieceUniRound.ttf') format('truetype'),
+       url('MasterpieceUniRound.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+

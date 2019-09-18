@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyanmarSagar';
+  src: url('MyanmarSagar.ttf') format('truetype'),
+       url('MyanmarSagar.woff') format('woff'),
+       url('MyanmarSagar.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

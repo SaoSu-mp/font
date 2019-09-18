@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyanmarGantgaw';
+  src: url('MyanmarGantgaw.ttf') format('truetype'),
+       url('MyanmarGantgaw.woff') format('woff'),
+       url('MyanmarGantgaw.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

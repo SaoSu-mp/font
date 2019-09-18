@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'KT3';
+  src: url('KT3.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'KTUnicode03';
+  src: url('KTUnicode03.ttf') format('truetype'),
+       url('KTUnicode03.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
