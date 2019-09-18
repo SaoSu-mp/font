@@ -106,6 +106,16 @@
         url(//fonts.gstatic.com/ea/myanmarsanspro/v4/MyanmarSansPro-Regular.woff) format('woff'),
         url(//fonts.gstatic.com/ea/myanmarsanspro/v4/MyanmarSansPro-Regular.ttf) format('truetype');
      }
+@font-face {
+  font-family: 'Khyay';
+  font-style: normal;
+  font-weight: 400;
+  src: url(//fonts.gstatic.com/ea/khyay/v2/Khyay-Regular.eot);
+  src: url(//fonts.gstatic.com/ea/khyay/v2/Khyay-Regular.eot?#iefix) format('embedded-opentype'),
+       url(//fonts.gstatic.com/ea/khyay/v2/Khyay-Regular.woff2) format('woff2'),
+       url(//fonts.gstatic.com/ea/khyay/v2/Khyay-Regular.woff) format('woff'),
+       url(//fonts.gstatic.com/ea/khyay/v2/Khyay-Regular.ttf) format('truetype');
+}
    @font-face {
      font-family:'Pyidaungsu';
      src:local('Pyidaungsu'), url('https://mmwebfonts.comquas.com/fonts/Pyidaungsu-2.1_Regular.woff') format('woff'), 
