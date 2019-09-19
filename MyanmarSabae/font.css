@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyanmarSabae';
+  src: url('MyanmarSabae.ttf') format('truetype'),
+       url('MyanmarSabae.woff') format('woff'),
+       url('MyanmarSabae.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

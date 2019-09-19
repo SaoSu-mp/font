@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyanmarHeadOne';
+  src: url('MyanmarHeadOne.ttf') format('truetype'),
+       url('MyanmarHeadOne.woff') format('woff'),
+       url('MyanmarHeadOne.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

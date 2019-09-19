@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'MyanmarPunk';
+  src: url('MyanmarPunk.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Myanmarpunk';
+  src: url('Myanmarpunk.ttf') format('truetype'),
+       url('Myanmarpunk.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+

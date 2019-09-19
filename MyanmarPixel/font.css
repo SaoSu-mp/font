@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyanmarPixel';
+  src: url('MyanmarPixel.ttf') format('truetype'),
+       url('MyanmarPixel.woff') format('woff'),
+       url('MyanmarPixel.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

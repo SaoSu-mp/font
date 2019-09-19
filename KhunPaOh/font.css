@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'KhunPaOh';
+  src: url('KhunPaOh.ttf') format('truetype'),
+       url('KhunPaOh.woff') format('woff'),
+       url('KhunPaOh.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

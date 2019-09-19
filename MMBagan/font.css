@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MMBagan';
+  src: url('MMBagan.ttf') format('truetype'),
+       url('MMBagan.woff') format('woff'),
+       url('MMBagan.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

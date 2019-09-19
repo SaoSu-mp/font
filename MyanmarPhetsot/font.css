@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyanmarPhetsot';
+  src: url('MyanmarPhetsot.ttf') format('truetype'),
+       url('MyanmarPhetsot.woff') format('woff'),
+       url('MyanmarPhetsot.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

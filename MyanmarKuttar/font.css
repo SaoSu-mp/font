@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyanmarKuttar';
+  src: url('MyanmarKuttar.ttf') format('truetype'),
+       url('MyanmarKuttar.woff') format('woff'),
+       url('MyanmarKuttar.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyanmarEthnic';
+  src: url('MyanmarEthnic.ttf') format('truetype'),
+       url('MyanmarEthnic.woff') format('woff'),
+       url('MyanmarEthnic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

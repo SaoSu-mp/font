@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyanmarSquare';
+  src: url('MyanmarSquare.ttf') format('truetype'),
+       url('MyanmarSquare.woff') format('woff'),
+       url('MyanmarSquare.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MMPhetkon';
+  src: url('MMPhetkon.ttf') format('truetype'),
+       url('MMPhetkon.woff') format('woff'),
+       url('MMPhetkon.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

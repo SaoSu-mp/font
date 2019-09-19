@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyanmarKatKuu';
+  src: url('MyanmarKatKuu.ttf') format('truetype'),
+       url('MyanmarKatKuu.woff') format('woff'),
+       url('MyanmarKatKuu.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

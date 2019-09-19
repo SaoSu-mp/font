@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyanmarSanpya';
+  src: url('MyanmarSanpya.ttf') format('truetype'),
+       url('MyanmarSanpya.woff') format('woff'),
+       url('MyanmarSanpya.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

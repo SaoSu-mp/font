@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyanmarPauklay';
+  src: url('MyanmarPauklay.ttf') format('truetype'),
+       url('MyanmarPauklay.woff') format('woff'),
+       url('MyanmarPauklay.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

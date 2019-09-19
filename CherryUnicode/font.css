@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'CherryUnicode';
+  src: url('CherryUnicode.ttf') format('truetype'),
+       url('CherryUnicode.woff') format('woff'),
+       url('CherryUnicode.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

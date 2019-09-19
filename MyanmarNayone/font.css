@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyanmarNayone';
+  src: url('MyanmarNayone.ttf') format('truetype'),
+       url('MyanmarNayone.woff') format('woff'),
+       url('MyanmarNayone.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

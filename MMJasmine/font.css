@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MMJasmine';
+  src: url('MMJasmine.ttf') format('truetype'),
+       url('MMJasmine.woff') format('woff'),
+       url('MMJasmine.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'JasmineUnicode';
+  src: url('JasmineUnicode.ttf') format('truetype'),
+       url('JasmineUnicode.woff') format('woff'),
+       url('JasmineUnicode.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

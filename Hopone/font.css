@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Hopone';
+  src: url('Hopone.ttf') format('truetype'),
+       url('Hopone.woff') format('woff'),
+       url('Hopone.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

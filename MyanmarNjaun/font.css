@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyanmarNjaun';
+  src: url('MyanmarNjaun.ttf') format('truetype'),
+       url('MyanmarNjaun.woff') format('woff'),
+       url('MyanmarNjaun.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
