@@ -114,6 +114,36 @@
              url("https://saosu-mp.github.io/font/KT3/KT3.woff2") format("woff2"),
              url("https://saosu-mp.github.io/font/KT3/KT3.ttf") format("ttf");
       }
+     @font-face {
+        font-family:"Cherry Unicode";
+        src: url("https://saosu-mp.github.io/font/CherryUnicode/CherryUnicode.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/CherryUnicode/CherryUnicode.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/CherryUnicode/CherryUnicode.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"KhunPaOh";
+        src: url("https://saosu-mp.github.io/font/KhunPaOh/KhunPaOh.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/KhunPaOh/KhunPaOh.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/KhunPaOh/KhunPaOh.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"MM Phetkon";
+        src: url("https://saosu-mp.github.io/font/MMPhetkon/MMPhetkon.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MMPhetkon/MMPhetkon.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MMPhetkon/MMPhetkon.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Myanmar Ethnic";
+        src: url("https://saosu-mp.github.io/font/MyanmarEthnic/MyanmarEthnic.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarEthnic/MyanmarEthnic.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarEthnic/MyanmarEthnic.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Myanmar KatKuu";
+        src: url("https://saosu-mp.github.io/font/MyanmarKatKuu/MyanmarKatKuu.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarKatKuu/MyanmarKatKuu.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarKatKuu/MyanmarKatKuu.ttf") format("ttf");
+      }
    @font-face {
      font-family:'Pyidaungsu';
      src:local('Pyidaungsu'), url('https://mmwebfonts.comquas.com/fonts/Pyidaungsu-2.1_Regular.woff') format('woff'), 
@@ -176,8 +206,110 @@
              url("https://saosu-mp.github.io/font/MyanmarYinmar/MyanmarYinmar.ttf") format("ttf");
       }
      @font-face {
+        font-family:"Myanmar Square";
+        src: url("https://saosu-mp.github.io/font/MyanmarSquare/MyanmarSquare.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarSquare/MyanmarSquare.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarSquare/MyanmarSquare.ttf") format("ttf");
+      }
+     @font-face {
         font-family:"Myanmar Square Light";
         src: url("https://saosu-mp.github.io/font/MyanmarSquareLight/MyanmarSquareLight.woff") format("woff"),
              url("https://saosu-mp.github.io/font/MyanmarSquareLight/MyanmarSquareLight.woff2") format("woff2"),
              url("https://saosu-mp.github.io/font/MyanmarSquareLight/MyanmarSquareLight.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Myanmar Sanpya";
+        src: url("https://saosu-mp.github.io/font/MyanmarSanpya/MyanmarSanpya.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarSanpya/MyanmarSanpya.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarSanpya/MyanmarSanpya.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Myanmar Sabae";
+        src: url("https://saosu-mp.github.io/font/MyanmarSabae/MyanmarSabae.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarSabae/MyanmarSabae.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarSabae/MyanmarSabae.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Myanmar Punk";
+        src: url("https://saosu-mp.github.io/font/MyanmarPunk/MyanmarPunk.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarPunk/MyanmarPunk.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarPunk/MyanmarPunk.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Myanmar Ponenyet";
+        src: url("https://saosu-mp.github.io/font/MyanmarPonenyet/MyanmarPonenyet.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarPonenyet/MyanmarPonenyet.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarPonenyet/MyanmarPonenyet.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Myanmar Pixel";
+        src: url("https://saosu-mp.github.io/font/MyanmarPixel/MyanmarPixel.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarPixel/MyanmarPixel.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarPixel/MyanmarPixel.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Myanmar Pixel Smooth";
+        src: url("https://saosu-mp.github.io/font/MyanmarPixelSmooth/MyanmarPixelSmooth.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarPixelSmooth/MyanmarPixelSmooth.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarPixelSmooth/MyanmarPixelSmooth.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Myanmar Phetsot";
+        src: url("https://saosu-mp.github.io/font/MyanmarPhetsot/MyanmarPhetsot.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarPhetsot/MyanmarPhetsot.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarPhetsot/MyanmarPhetsot.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Myanmar Pauklay";
+        src: url("https://saosu-mp.github.io/font/MyanmarPauklay/MyanmarPauklay.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarPauklay/MyanmarPauklay.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarPauklay/MyanmarPauklay.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Myanmar Njaun";
+        src: url("https://saosu-mp.github.io/font/MyanmarNjaun/MyanmarNjaun.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarNjaun/MyanmarNjaun.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarNjaun/MyanmarNjaun.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Myanmar Nayone";
+        src: url("https://saosu-mp.github.io/font/MyanmarNayone/MyanmarNayone.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarNayone/MyanmarNayone.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarNayone/MyanmarNayone.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Myanmar Kuttar";
+        src: url("https://saosu-mp.github.io/font/MyanmarKuttar/MyanmarKuttar.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarKuttar/MyanmarKuttar.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarKuttar/MyanmarKuttar.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Myanmar Head One";
+        src: url("https://saosu-mp.github.io/font/MyanmarHeadOne/MyanmarHeadOne.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarHeadOne/MyanmarHeadOne.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarHeadOne/MyanmarHeadOne.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"MM Jasmine";
+        src: url("https://saosu-mp.github.io/font/MMJasmine/MMJasmine.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MMJasmine/MMJasmine.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MMJasmine/MMJasmine.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Jasmine Unicode";
+        src: url("https://saosu-mp.github.io/font/JasmineUnicode/JasmineUnicode.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/JasmineUnicode/JasmineUnicode.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/JasmineUnicode/JasmineUnicode.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"MM Bagan";
+        src: url("https://saosu-mp.github.io/font/MMBagan/MMBagan.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MMBagan/MMBagan.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MMBagan/MMBagan.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Hopone";
+        src: url("https://saosu-mp.github.io/font/Hopone/Hopone.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/Hopone/Hopone.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/Hopone/Hopone.ttf") format("ttf");
       }
