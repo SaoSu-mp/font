@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Pyidaungsu';
+  src: url('Pyidaungsu.ttf') format('truetype'),
+       url('Pyidaungsu.woff') format('woff'),
+       url('Pyidaungsu.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
