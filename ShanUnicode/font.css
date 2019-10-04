@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'ShanUnicode';
+  src: url('ShanUnicode.ttf') format('truetype'),
+       url('ShanUnicode.woff') format('woff'),
+       url('ShanUnicode.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
