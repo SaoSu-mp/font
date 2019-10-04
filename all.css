@@ -23,6 +23,12 @@
              url("https://saosu-mp.github.io/font/PangLong/PangLong.ttf") format("ttf");
       }
      @font-face {
+        font-family:"Yunghkio";
+        src: url("https://saosu-mp.github.io/font/Yunghkio/Yunghkio.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/Yunghkio/Yunghkio.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/Yunghkio/Yunghkio.ttf") format("ttf");
+      }
+     @font-face {
         font-family:"Yunghkio Unicode";
         src: url("https://saosu-mp.github.io/font/YunghkioUnicode/YunghkioUnicode.woff") format("woff"),
              url("https://saosu-mp.github.io/font/YunghkioUnicode/YunghkioUnicode.woff2") format("woff2"),
