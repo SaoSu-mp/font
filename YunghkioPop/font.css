@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'YunghkioPop';
+  src: url('YunghkioPop.ttf') format('truetype'),
+       url('YunghkioPop.woff') format('woff'),
+       url('YunghkioPop.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
