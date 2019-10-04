@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Uni-HeartLineLine';
+  src: url('Uni-HeartLineLine.ttf') format('truetype'),
+       url('Uni-HeartLineLine.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'UniHeartLineLine';
+  src: url('UniHeartLineLine.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
