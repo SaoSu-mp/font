@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Yunghkio';
+  src: url('Yunghkio.ttf') format('truetype'),
+       url('Yunghkio.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'yunghkio';
+  src: url('yunghkio.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
