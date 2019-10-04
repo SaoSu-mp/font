@@ -29,6 +29,18 @@
              url("https://saosu-mp.github.io/font/YunghkioUnicode/YunghkioUnicode.ttf") format("ttf");
       }
      @font-face {
+        font-family:"Yunghkio004";
+        src: url("https://saosu-mp.github.io/font/Yunghkio004/Yunghkio004.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/Yunghkio004/Yunghkio004.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/Yunghkio004/Yunghkio004.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Yunghkio Pop";
+        src: url("https://saosu-mp.github.io/font/YunghkioPop/YunghkioPop.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/YunghkioPop/YunghkioPop.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/YunghkioPop/YunghkioPop.ttf") format("ttf");
+      }
+     @font-face {
        font-family:'Ours-Unicode';
        src:local('Ours-Unicode'), url('https://mmwebfonts.comquas.com/fonts/oursunicode.woff') format('woff'), 
              url('https://mmwebfonts.comquas.com/fonts/oursunicode.ttf') format('ttf');
@@ -54,6 +66,12 @@
         src: url("https://saosu-mp.github.io/font/NamTengWebPro/NamTengWebPro.woff") format("woff"),
              url("https://saosu-mp.github.io/font/NamTengWebPro/NamTengWebPro.woff2") format("woff2"),
              url("https://saosu-mp.github.io/font/NamTengWebPro/NamTengWebPro.ttf") format("ttf");
+      }
+   @font-face {
+        font-family:"NamTeng2017";
+        src: url("https://saosu-mp.github.io/font/NamTeng2017/NamTeng2017.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/NamTeng2017/NamTeng2017.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/NamTeng2017/NamTeng2017.ttf") format("ttf");
       }
      @font-face {
         font-family:"NK SSmart2";
@@ -318,4 +336,10 @@
         src: url("https://saosu-mp.github.io/font/Hopone/Hopone.woff") format("woff"),
              url("https://saosu-mp.github.io/font/Hopone/Hopone.woff2") format("woff2"),
              url("https://saosu-mp.github.io/font/Hopone/Hopone.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Myanmar Kalay";
+        src: url("https://saosu-mp.github.io/font/MyanmarKalay/MyanmarKalay.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarKalay/MyanmarKalay.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarKalay/MyanmarKalay.ttf") format("ttf");
       }
