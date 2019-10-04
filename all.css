@@ -343,3 +343,9 @@
              url("https://saosu-mp.github.io/font/MyanmarKalay/MyanmarKalay.woff2") format("woff2"),
              url("https://saosu-mp.github.io/font/MyanmarKalay/MyanmarKalay.ttf") format("ttf");
       }
+     @font-face {
+        font-family:"UniHeart LineLine";
+        src: url("https://saosu-mp.github.io/font/UniHeartLineLine/UniHeartLineLine.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/UniHeartLineLine/UniHeartLineLine.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/UniHeartLineLine/UniHeartLineLine.ttf") format("ttf");
+      }
