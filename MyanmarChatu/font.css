@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyanmarChatu';
+  src: url('MyanmarChatu.ttf') format('truetype'),
+       url('MyanmarChatu.woff') format('woff'),
+       url('MyanmarChatu.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

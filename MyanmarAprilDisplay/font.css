@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyanmarAprilDisplay';
+  src: url('MyanmarAprilDisplay.ttf') format('truetype'),
+       url('MyanmarAprilDisplay.woff') format('woff'),
+       url('MyanmarAprilDisplay.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
