@@ -308,6 +308,12 @@
              url("https://saosu-mp.github.io/font/MyanmarNjaun/MyanmarNjaun.ttf") format("ttf");
       }
      @font-face {
+        font-family:"Myanmar Chatu";
+        src: url("https://saosu-mp.github.io/font/MyanmarChatu/MyanmarChatu.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarChatu/MyanmarChatu.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarChatu/MyanmarChatu.ttf") format("ttf");
+      }
+     @font-face {
         font-family:"Myanmar Nayone";
         src: url("https://saosu-mp.github.io/font/MyanmarNayone/MyanmarNayone.woff") format("woff"),
              url("https://saosu-mp.github.io/font/MyanmarNayone/MyanmarNayone.woff2") format("woff2"),
@@ -360,4 +366,10 @@
         src: url("https://saosu-mp.github.io/font/UniHeartLineLine/UniHeartLineLine.woff") format("woff"),
              url("https://saosu-mp.github.io/font/UniHeartLineLine/UniHeartLineLine.woff2") format("woff2"),
              url("https://saosu-mp.github.io/font/UniHeartLineLine/UniHeartLineLine.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"Myanmar April Display";
+        src: url("https://saosu-mp.github.io/font/MyanmarAprilDisplay/MyanmarAprilDisplay.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarAprilDisplay/MyanmarAprilDisplay.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarAprilDisplay/MyanmarAprilDisplay.ttf") format("ttf");
       }
