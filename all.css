@@ -68,6 +68,12 @@
             url(//fonts.gstatic.com/ea/tharlon/v3/Tharlon-Regular.ttf) format('truetype');
      }
    @font-face {
+        font-family:"MUA Office";
+        src: url("https://saosu-mp.github.io/font/MUAOffice/MUAOffice.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MUAOffice/MUAOffice.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MUAOffice/MUAOffice.ttf") format("ttf");
+      }
+   @font-face {
         font-family:"NamKhone Web Pro";
         src: url("https://saosu-mp.github.io/font/NamKhoneWebPro/NamKhoneWebPro.woff") format("woff"),
              url("https://saosu-mp.github.io/font/NamKhoneWebPro/NamKhoneWebPro.woff2") format("woff2"),
