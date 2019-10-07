@@ -86,6 +86,12 @@
              url("https://saosu-mp.github.io/font/NamTengWebPro/NamTengWebPro.ttf") format("ttf");
       }
    @font-face {
+        font-family:"NamTeng";
+        src: url("https://saosu-mp.github.io/font/NamTeng/NamTeng.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/NamTeng/NamTeng.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/NamTeng/NamTeng.ttf") format("ttf");
+      }
+   @font-face {
         font-family:"NamTeng2017";
         src: url("https://saosu-mp.github.io/font/NamTeng2017/NamTeng2017.woff") format("woff"),
              url("https://saosu-mp.github.io/font/NamTeng2017/NamTeng2017.woff2") format("woff2"),
@@ -143,6 +149,12 @@
         src: url("https://saosu-mp.github.io/font/LuenTai2/LuenTai2.woff") format("woff"),
              url("https://saosu-mp.github.io/font/LuenTai2/LuenTai2.woff2") format("woff2"),
              url("https://saosu-mp.github.io/font/LuenTai2/LuenTai2.ttf") format("ttf");
+      }
+     @font-face {
+        font-family:"KeangTawng001";
+        src: url("https://saosu-mp.github.io/font/KeangTawng001/KeangTawng001.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/KeangTawng001/KeangTawng001.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/KeangTawng001/KeangTawng001.ttf") format("ttf");
       }
      @font-face {
         font-family:"KengTawng2";
@@ -420,4 +432,10 @@
         src: url("https://saosu-mp.github.io/font/MyanmarThuriya/MyanmarThuriya.woff") format("woff"),
              url("https://saosu-mp.github.io/font/MyanmarThuriya/MyanmarThuriya.woff2") format("woff2"),
              url("https://saosu-mp.github.io/font/MyanmarThuriya/MyanmarThuriya.ttf") format("ttf");
+      }
+   @font-face {
+        font-family:"MyanmarPaOhOne";
+        src: url("https://saosu-mp.github.io/font/MyanmarPaOhOne/MyanmarPaOhOne.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/MyanmarPaOhOne/MyanmarPaOhOne.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/MyanmarPaOhOne/MyanmarPaOhOne.ttf") format("ttf");
       }
