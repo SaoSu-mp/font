@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'GHKKengTung';
+  src: url('GHKKengTung.ttf') format('truetype'),
+       url('GHKKengTung.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GHKKengtung';
+  src: url('GHKKengtung.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
