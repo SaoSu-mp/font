@@ -1,9 +1,0 @@
-@font-face {
-  font-family: 'Ours-Unicode';
-  src: url('Ours-Unicode.ttf') format('truetype'),
-       url('Ours-Unicode.woff') format('woff'),
-       url('Ours-Unicode.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
-
