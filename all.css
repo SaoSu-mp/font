@@ -213,11 +213,13 @@
              url("https://saosu-mp.github.io/font/MyanmarKatKuu/MyanmarKatKuu.woff2") format("woff2"),
              url("https://saosu-mp.github.io/font/MyanmarKatKuu/MyanmarKatKuu.ttf") format("ttf");
       }
-   @font-face {
-     font-family:'Pyidaungsu';
-     src:local('Pyidaungsu'), url('https://mmwebfonts.comquas.com/fonts/Pyidaungsu-2.1_Regular.woff') format('woff'), 
-           url('https://mmwebfonts.comquas.com/fonts/Pyidaungsu-2.1_Regular.ttf') format('ttf');
-     }
+
+    @font-face {
+        font-family:"Pyidaungsu";
+        src: url("https://saosu-mp.github.io/font/Pyidaungsu/Pyidaungsu.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/Pyidaungsu/Pyidaungsu.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/Pyidaungsu/Pyidaungsu.ttf") format("ttf");
+      }
    @font-face {
      font-family:'Pyidaungsu';
      src:local('Pyidaungsu'), url('https://mmwebfonts.comquas.com/fonts/Pyidaungsu-2.1_Bold.woff') format('woff'), 
