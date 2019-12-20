@@ -127,11 +127,12 @@
              url("https://saosu-mp.github.io/font/GHKMuSe/GHKMuSe.woff2") format("woff2"),
              url("https://saosu-mp.github.io/font/GHKMuSe/GHKMuse.ttf") format("ttf");
       }
-     @font-face {
-       font-family:'GHK KengTung';
-       src:local('GHK KengTung'), url('https://mmwebfonts.comquas.com/fonts/GHKKengtung.woff') format('woff'), 
-             url('https://mmwebfonts.comquas.com/fonts/GHKKengtung.ttf') format('ttf');
-     }
+   @font-face {
+        font-family:"GHK KengTung";
+        src: url("https://saosu-mp.github.io/font/GHKKengTung/GHKKengTung.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/GHKKengTung/GHKKengTung.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/GHKKengTung/GHKKengTung.ttf") format("ttf");
+      }
      @font-face {
         font-family:"GHK Tachileik";
         src: url("https://ar-themes.github.io/fonts/GHK/GHKTachileik.woff") format("woff"),
