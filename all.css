@@ -220,12 +220,7 @@
              url("https://saosu-mp.github.io/font/Pyidaungsu/Pyidaungsu.woff2") format("woff2"),
              url("https://saosu-mp.github.io/font/Pyidaungsu/Pyidaungsu.ttf") format("ttf");
       }
-   @font-face {
-     font-family:'Pyidaungsu';
-     src:local('Pyidaungsu'), url('https://mmwebfonts.comquas.com/fonts/Pyidaungsu-2.1_Bold.woff') format('woff'), 
-           url('https://mmwebfonts.comquas.com/fonts/Pyidaungsu-2.1_Bold.ttf') format('ttf');
-     font-weight:bold;
-     }
+
    @font-face {
    font-family: 'Myanmar Sans Pro';
    font-style: normal;
