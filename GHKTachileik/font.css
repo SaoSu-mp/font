@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'GHKTachileik';
+  src: url('GHKTachileik.ttf') format('truetype'),
+       url('GHKTachileik.woff') format('woff'),
+       url('GHKTachileik.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
