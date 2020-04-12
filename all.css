@@ -445,3 +445,15 @@
              url("https://saosu-mp.github.io/font/A-Ying70/A-Ying70.woff2") format("woff2"),
              url("https://saosu-mp.github.io/font/A-Ying70/A-Ying70.ttf") format("ttf");
       }
+   @font-face {
+        font-family:"A-Ying70";
+        src: url("https://saosu-mp.github.io/font/Kawsai-24/Kawsai-24.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/Kawsai-24/Kawsai-24.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/Kawsai-24/Kawsai-24.ttf") format("ttf");
+      }
+   @font-face {
+        font-family:"A-Ying70";
+        src: url("https://saosu-mp.github.io/font/BShanBB/BShanBB.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/BShanBB/BShanBB.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/BShanBB/BShanBB.ttf") format("ttf");
+      }
