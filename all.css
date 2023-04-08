@@ -10,6 +10,12 @@
              url("https://saosu-mp.github.io/font/GHKTaungGyi/GHKTaungGyi.woff2") format("woff2"),
              url("https://saosu-mp.github.io/font/GHKTaungGyi/GHKTaungGyi.ttf") format("ttf");
       }
+     @font-face {
+        font-family:"GHK TaungGyi2";
+        src: url("https://saosu-mp.github.io/font/GHKTaungGyi2/GHKTaungGyi2.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/GHKTaungGyi2/GHKTaungGyi2.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/GHKTaungGyi2/GHKTaungGyi2.ttf") format("ttf");
+      }
       @font-face {
         font-family:"GreatHorKham Yangon";
         src: url("https://saosu-mp.github.io/font/GreatHorKhamYangon/GreatHorKhamYangon.woff") format("woff"),
