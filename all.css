@@ -1,4 +1,52 @@
-     @font-face {
+@font-face {
+        font-family:"A J Kunheing E-T-M 00";
+        src: url("https://saosu-mp.github.io/font/A_J_Kunheing_E-T-M_00/A_J_Kunheing_E-T-M_00.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/A_J_Kunheing_E-T-M_00/A_J_Kunheing_E-T-M_00.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/A_J_Kunheing_E-T-M_00/A_J_Kunheing_E-T-M_00.ttf") format("ttf");
+      }
+@font-face {
+        font-family:"A J Kunheing E-T-M 02";
+        src: url("https://saosu-mp.github.io/font/A_J_Kunheing_E-T-M_02/A_J_Kunheing_E-T-M_02.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/A_J_Kunheing_E-T-M_02/A_J_Kunheing_E-T-M_02.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/A_J_Kunheing_E-T-M_02/A_J_Kunheing_E-T-M_02.ttf") format("ttf");
+      }
+@font-face {
+        font-family:"A J Kunheing E-T-M 03";
+        src: url("https://saosu-mp.github.io/font/A_J_Kunheing_E-T-M_03/A_J_Kunheing_E-T-M_03.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/A_J_Kunheing_E-T-M_03/A_J_Kunheing_E-T-M_03.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/A_J_Kunheing_E-T-M_03/A_J_Kunheing_E-T-M_03.ttf") format("ttf");
+      }
+@font-face {
+        font-family:"Arial Black";
+        src: url("https://saosu-mp.github.io/font/Arial_Black/Arial_Black.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/Arial_Black/Arial_Black.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/Arial_Black/Arial_Black.ttf") format("ttf");
+      }
+@font-face {
+        font-family:"Ethnocentric";
+        src: url("https://saosu-mp.github.io/font/Ethnocentric/Ethnocentric.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/Ethnocentric/Ethnocentric.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/Ethnocentric/Ethnocentric.ttf") format("ttf");
+      }
+@font-face {
+        font-family:"KLO SHAN UNI";
+        src: url("https://saosu-mp.github.io/font/KLO_SHAN_UNI/KLO_SHAN_UNI.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/KLO_SHAN_UNI/KLO_SHAN_UNI.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/KLO_SHAN_UNI/KLO_SHAN_UNI.ttf") format("ttf");
+      }
+@font-face {
+        font-family:"A J Kunheing 16";
+        src: url("https://saosu-mp.github.io/font/A_J_Kunheing_16/A_J_Kunheing_16.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/A_J_Kunheing_16/A_J_Kunheing_16.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/A_J_Kunheing_16/A_J_Kunheing_16.ttf") format("ttf");
+      }
+@font-face {
+        font-family:"A J Kunheing 9";
+        src: url("https://saosu-mp.github.io/font/A_J_Kunheing_9/A_J_Kunheing_9.woff") format("woff"),
+             url("https://saosu-mp.github.io/font/A_J_Kunheing_9/A_J_Kunheing_9.woff2") format("woff2"),
+             url("https://saosu-mp.github.io/font/A_J_Kunheing_9/A_J_Kunheing_9.ttf") format("ttf");
+      }
+@font-face {
         font-family:"NamKhoneUnicode";
         src: url("https://saosu-mp.github.io/font/NamKhoneUnicode/NamKhoneUnicode.woff") format("woff"),
              url("https://saosu-mp.github.io/font/NamKhoneUnicode/NamKhoneUnicode.woff2") format("woff2"),
